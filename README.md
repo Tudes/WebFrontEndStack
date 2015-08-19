@@ -1,7 +1,5 @@
-# Localization
-中文: 
-http://www.cnblogs.com/unruledboy/p/WebFrontEndStack.html
-
+# Updates
+On the 1st of each month I will try to update the stats as well as the stack.
 
 # WebFrontEndStack
 Web front-end stack: browsers, platforms, libraries, frameworks, tools etc.
@@ -61,12 +59,23 @@ https://rawgit.com/unruledboy/WebFrontEndStack/master/ux/WebFrontEndStack.htm
 
 - Web Front End
 	- Browser
-		- Internet Explorer
+		- Microsoft Internet Explorer
+			- Microsoft Internet Explorer 11.0 - 26.90%
+			- Microsoft Internet Explorer 10.0 - 5.14%
+			- Microsoft Internet Explorer 9.0 - 7.29%
+			- Microsoft Internet Explorer 8.0 - 13.14%
 		- Chrome
+			- Chrome 44.0 - Market Share 3.3%
+			- Chrome 43.0 - Market Share 14.53%
 		- Firefox
+			- Firefox 39 - Market Share 6.62%
 		- Safari
+			- Safari 8 - Market Share 2.99%
 		- Opera
+			- Opera 30 - Market Share 0.86%
 		- Edge
+			- Microsoft Edge 12 - Market Share 0.14%
+		- Yandex
 		- Netscape ;-)
 	- Protocol
 		- HTTP/1.1
@@ -157,6 +166,7 @@ https://rawgit.com/unruledboy/WebFrontEndStack/master/ux/WebFrontEndStack.htm
 		- Brunch
 		- Yeoman
 		- Broccoli
+		- Cake
 	- Debug
 		- Developer Tools
 		- Firebug
@@ -194,6 +204,7 @@ https://rawgit.com/unruledboy/WebFrontEndStack/master/ux/WebFrontEndStack.htm
 			- CommonJS
 				- webpack
 				- browserify
+				- JSPM
 			- AMD
 				- RequireJS
 		- JavaScript framework

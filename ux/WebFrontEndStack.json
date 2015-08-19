@@ -3,17 +3,45 @@
     "children": [{
         "name": "Browser",
         "children": [{
-            "name": "Internet Explorer"
+            "name": "Microsoft Internet Explorer",
+            "children": [{
+                "name": "Microsoft Internet Explorer 11.0 - 26.90%"
+            }, {
+                "name": "Microsoft Internet Explorer 10.0 - 5.14%"
+            }, {
+                "name": "Microsoft Internet Explorer 9.0 - 7.29%"
+            }, {
+                "name": "Microsoft Internet Explorer 8.0 - 13.14%"
+            }]
         }, {
-            "name": "Chrome"
+            "name": "Chrome",
+            "children": [{
+                "name": "Chrome 44.0 - Market Share 3.3%"
+            }, {
+                "name": "Chrome 43.0 - Market Share 14.53%"
+            }]
         }, {
-            "name": "Firefox"
+            "name": "Firefox",
+            "children": [{
+                "name": "Firefox 39 - Market Share 6.62%"
+            }]
         }, {
-            "name": "Safari"
+            "name": "Safari",
+            "children": [{
+                "name": "Safari 8 - Market Share 2.99%"
+            }]
         }, {
-            "name": "Opera"
+            "name": "Opera",
+            "children": [{
+                "name": "Opera 30 - Market Share 0.86%"
+            }]
         }, {
-            "name": "Edge"
+            "name": "Edge",
+            "children": [{
+                "name": "Microsoft Edge 12 - Market Share 0.14%"
+            }]
+        }, {
+            "name": "Yandex"
         }, {
             "name": "Netscape ;-)"
         }]
@@ -212,6 +240,8 @@
             "name": "Yeoman"
         }, {
             "name": "Broccoli"
+        }, {
+            "name": "Cake"
         }]
     }, {
         "name": "Debug",
@@ -293,6 +323,8 @@
                     "name": "webpack"
                 }, {
                     "name": "browserify"
+                }, {
+                    "name": "JSPM"
                 }]
             }, {
                 "name": "AMD",
